@@ -15,6 +15,13 @@ Food delivery app built in React Native.
 
 ## 🔍 App Overview
 ### Home Page
+![localhost_19006_(iPhone X) (1)](https://user-images.githubusercontent.com/54692916/146652492-2280b85d-1dd9-4468-b3a3-9fad5aade2d7.png)
+![localhost_19006_(iPhone X) (2)](https://user-images.githubusercontent.com/54692916/146652501-d4c860d8-4d30-42bb-9016-36e86fb3ca65.png)
+
+### Detail Page
+![localhost_19006_(iPhone X) (3)](https://user-images.githubusercontent.com/54692916/146652555-9fca09ad-3212-4fdc-86de-36832f19a589.png)
+
+
 
 ## ⬇️ Installation
 

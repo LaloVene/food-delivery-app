@@ -34,8 +34,8 @@ const Dots = ({ restaurant, scrollX }: { restaurant: any; scrollX: any }) => {
           return (
             <Animated.View
               key={`dot-${index}`}
-              opacity={opacity}
               style={{
+                opacity: opacity,
                 borderRadius: SIZES.radius,
                 marginHorizontal: 6,
                 width: dotSize,

@@ -26,6 +26,8 @@ const MainCategories = ({
           alignItems: "center",
           justifyContent: "center",
           marginRight: SIZES.padding,
+          width: 95,
+          boxShadow: "0px 0px 5px rgba(0, 0, 0, 0.1)",
           ...styles.shadow,
         }}
         onPress={() => onSelectCategory(item)}
@@ -67,8 +69,8 @@ const MainCategories = ({
 
   return (
     <View style={{ padding: SIZES.padding * 2 }}>
-      <Text style={{ ...FONTS.h1, fontWeight: "bold" }}>Main</Text>
-      <Text style={{ ...FONTS.h1 }}>Categories</Text>
+      <Text style={{ ...FONTS.h1 }}>Main</Text>
+      <Text style={{ ...FONTS.h2 }}>Categories</Text>
 
       <FlatList
         data={categoryData}

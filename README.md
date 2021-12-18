@@ -15,11 +15,11 @@ Food delivery app built in React Native.
 
 ## 🔍 App Overview
 ### Home Page
-![localhost_19006_(iPhone X) (1)](https://user-images.githubusercontent.com/54692916/146652492-2280b85d-1dd9-4468-b3a3-9fad5aade2d7.png)
-![localhost_19006_(iPhone X) (2)](https://user-images.githubusercontent.com/54692916/146652501-d4c860d8-4d30-42bb-9016-36e86fb3ca65.png)
+![image](https://user-images.githubusercontent.com/54692916/146652700-4c8d37d2-ee45-4562-80d1-cc8c0aa7c453.png)
+![image](https://user-images.githubusercontent.com/54692916/146652714-db19030a-2b5e-4aab-816c-3e6967c5c812.png)
 
 ### Detail Page
-![localhost_19006_(iPhone X) (3)](https://user-images.githubusercontent.com/54692916/146652555-9fca09ad-3212-4fdc-86de-36832f19a589.png)
+![image](https://user-images.githubusercontent.com/54692916/146652731-0c117169-0b01-4e2d-9bf2-5edbe1923849.png)
 
 
 
